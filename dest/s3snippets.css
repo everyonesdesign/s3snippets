@@ -1,0 +1,71 @@
+.anketaForm-submit {
+  margin-top: 20px;
+}
+.anketaForm-field {
+  margin-bottom: 16px;
+}
+.anketaForm-captcha .mgCaptcha-block {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+.anketaForm-captcha input[type="text"] {
+  text-align: center;
+}
+.anketaForm-note {
+  color: #999;
+}
+.anketaForm-error {
+  color: #ee4444;
+}
+
+.posts {
+  margin: 10px 0;
+}
+.posts-item {
+  padding: 16px 0 18px;
+}
+.posts-itemImage {
+  float: left;
+}
+.posts-itemImage img {
+  display: block;
+}
+.posts-itemImage + .posts-itemBody {
+  padding-left: 120px;
+}
+.posts-itemTitle {
+  font-size: 1.1em;
+  margin: -4px 0 6px;
+}
+.posts-itemText p {
+  margin-top: 0;
+}
+.posts-date {
+  margin: -6px 0 10px;
+  font-size: .8em;
+  color: #999;
+}
+.posts-single {
+  margin: 34px 0 20px;
+}
+.posts-singleImage {
+  float: left;
+  max-width: 120px;
+  margin: 0 20px 20px 0;
+}
+.posts-singleImage img {
+  display: block;
+}
+.posts-singleImage + .posts-singleBody {
+  padding-left: 120px;
+}
+.posts-singleDate {
+  margin: -2px 0 -5px;
+  font-size: .8em;
+  color: #999;
+}
+.posts-singleBack {
+  font-size: .9em;
+  margin-top: 16px;
+}
